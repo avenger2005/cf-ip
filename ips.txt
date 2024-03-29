@@ -1,1 +1,1 @@
-www.garmin.com.hk:443#HK
+1.1.1.1:443#HK
